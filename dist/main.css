@@ -1,0 +1,256 @@
+body{
+	background:#fff
+	}
+header{
+	background:#323232;
+	height:63px;
+	align-items:center
+	}
+header a{
+	display:inline-block;
+	min-width:13%;
+	color:#fff;
+	font-weight:700;
+	font-family:Lato;
+	text-transform:uppercase;
+	text-align:center;
+	text-decoration:none;
+cursor: pointer;
+	}
+.triangle,header,header div{
+	display:flex;
+	justify-content:center
+	}
+header a:hover{
+	color:#2eb398
+	}
+#triangle-down{
+	width:0;
+	height:0;
+	border-left:60px solid transparent;
+	border-right:60px solid transparent;
+	border-top:40px solid #323232
+	}
+#portfolio{
+	padding:7%
+	}
+#about,#get{
+	background-color:#2eb398;
+	padding:3% 7%
+	}
+#about>div{
+    }
+#about>div>div{
+	padding:0 2%;
+	}
+#get{
+	background-color:#323232;
+
+	}
+#about>div,#get>div{
+	display:flex;
+	align-items:center;
+	justify-content:center
+    }
+.line{
+width: 410px;
+height: 1px;
+background-color: #e4e9eb;
+margin-top: 10px;
+border: none;
+}
+.smith{
+width: 209px;
+height: 22px;
+color: #d7fcf5;
+font-family: "Maven Pro Regular";
+font-size: 30px;
+font-weight: 400;
+line-height: 5px;
+margin-top: -60px;
+}
+.Illustrator{
+width: 249px;
+height: 17px;
+color: #20816d;
+font-family: "Maven Pro Regular";
+font-size: 19px;
+font-weight: 400;
+line-height: 22px;
+margin-bottom: 20px;
+}
+.lorem{
+
+color: #d7fcf5;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+
+}
+.fa-facebook{
+background-color:#4169E1;
+width: 24px;
+height: 20px;
+text-align: center;
+padding-top: 4px;
+color: #FFFAF0
+}
+.fa-twitter{
+background-color: #00CED1;
+width: 24px;
+height: 20px;
+text-align: center;
+padding-top: 4px;
+color: #FFFAF0
+}
+.fa-google{
+background-color: #FFA07A;
+width: 24px;
+height: 20px;
+text-align: center;
+padding-top: 4px;
+color: #FFFAF0
+}
+.fa-pinterest-p{
+background-color: #FF0000;
+width: 24px;
+height: 20px;
+text-align: center;
+padding-top: 4px;
+color: #FFFAF0
+}
+.fa-instagram{
+background-color: #1E90FF ;
+width: 24px;
+height: 20px;
+text-align: center;
+padding-top: 4px;
+color: #FFFAF0
+}
+.fa-globe{
+background-color: #DA70D6;
+width: 24px;
+height: 20px;
+text-align: center;
+padding-top: 4px;
+color: #FFFAF0
+}
+.dvig-icon{
+	margin-top: 177px;
+	margin-left: -240px;
+}
+.line1{
+width: 1px;
+height: 316px;
+background-color: #219d84;
+border: none;
+}
+.line2{
+width: 1px;
+height: 316px;
+background-color: #219d84;
+border: none;
+}
+.line3{
+width: 960px;
+height: 1px;
+background-color: #e4e9eb;
+border: none;
+margin-left: 312px;
+margin-bottom: 10px;
+}
+.gett{
+color: #e0e0e0;
+font-family: "Maven Pro Regular";
+font-weight: 600;
+}
+.order{
+width: 421px;
+height: 17px;
+color: #bebebe;
+font-family: "Maven Pro Regular";
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+}
+.name{
+height: 38px;
+background-color: #454545;
+border: none;
+color: #F5FFFA;
+font-family: Lato;
+font-size: 20px;
+font-weight: 400;
+line-height: 22px;
+padding-left: 20px;
+}
+.name1{
+height: 150px;
+background-color: #454545;
+border: none;
+color: #F5FFFA;
+font-family: Lato;
+font-size: 20px;
+font-weight: 400;
+line-height: 22px;
+padding-left: 20px;
+}
+.dvig-get{
+margin-left: -210px;
+}
+.purus{
+width: 180px;
+height: 117px;
+font-family: Lato;
+font-size: 12px;
+line-height: 22px;
+color: #bebebe;
+font-weight: 400;
+padding-left: 50px;
+margin-top: -50px;
+margin-bottom: 30px;
+}
+.elm{
+color: #bebebe;
+font-family: Lato;
+font-size: 12px;
+font-weight: 700;
+line-height: 22px;
+padding-left: 50px;
+}
+a{
+text-decoration: none;
+color: inherit;
+}
+.send{
+width: 90px;
+height: 37px;
+background-color: #2eb398;
+color: #d7fcf5;
+font-family: Lato;
+font-size: 12px;
+font-weight: 700;
+line-height: 22px;
+text-transform: uppercase;
+border: none;
+margin-top: 450px;
+}
+.line4{
+width: 960px;
+height: 1px;
+background-color: #2b2b2b;
+border: none;
+margin-top: -20px;
+margin-left: 210px;
+}
+.send1{
+margin-left: -320px;
+}
+
+
+  
+
+
+
+
